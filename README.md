@@ -87,6 +87,7 @@ Just use vscode!
 .
 
 .
+
 (It's a joke) but learning the basics of Nano / Vi / Emacs is very good and using one of them along with VSCode is a very good idea (getting good at vi or emacs binding on VSCode is also very helpful when you get good at them!)
 The most common setup I have come across are either:
 
